@@ -14,4 +14,5 @@ public class Configuration {
 	
 	int max;
 	int min;
+	boolean updateFromGitHub;
 }
